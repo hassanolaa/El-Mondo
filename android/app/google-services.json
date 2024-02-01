@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546414849747",
+    "project_id": "cashier-10",
+    "storage_bucket": "cashier-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546414849747:android:117b5981e659cd9a102e26",
+        "android_client_info": {
+          "package_name": "com.example.cashier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546414849747-57t1st69pagmpr71dc8abqbmg982hp58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSpy92-RSjhSXnAzD2H184RKRQ10qG5b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546414849747-57t1st69pagmpr71dc8abqbmg982hp58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
